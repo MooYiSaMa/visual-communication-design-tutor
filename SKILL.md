@@ -73,6 +73,19 @@ Choose methods by the unknown: interviews/observation for behavior; artifact or 
 
 Classify references as method, context, precedent, visual language, material process, or audience evidence. Record author, date, source, relevance, transferable principle, and boundary. Use RCA archive material, Behance, Pinterest, Creative Review, and Core77 as distinct reference sources; Pinterest is discovery, not proof of behavior. Verify current application requirements and precise claims from authoritative sources.
 
+## Resource routing
+
+Read only the resources relevant to the current bottleneck:
+
+- **Diagnosis / exploration:** [workflows/00-diagnosis.md](workflows/00-diagnosis.md), [workflows/01-exploration.md](workflows/01-exploration.md), [frameworks/project-state.md](frameworks/project-state.md), and [templates/project-brief.md](templates/project-brief.md).
+- **Research:** [workflows/02-research.md](workflows/02-research.md), [frameworks/design-research.md](frameworks/design-research.md), [templates/research-map.md](templates/research-map.md), and the relevant file in `references/`.
+- **Concept:** [workflows/03-concept.md](workflows/03-concept.md), [frameworks/concept-framework.md](frameworks/concept-framework.md), [frameworks/anti-cliche.md](frameworks/anti-cliche.md), and [templates/concept-map.md](templates/concept-map.md).
+- **Visual translation:** [workflows/04-translation.md](workflows/04-translation.md), [frameworks/design-translation.md](frameworks/design-translation.md), and [frameworks/visual-language.md](frameworks/visual-language.md).
+- **Experimentation / development:** [workflows/05-experimentation.md](workflows/05-experimentation.md), [workflows/06-development.md](workflows/06-development.md), [templates/experiment-log.md](templates/experiment-log.md), and [templates/visual-system.md](templates/visual-system.md).
+- **Critique:** [workflows/07-critique.md](workflows/07-critique.md), [rubrics/visual-critique.md](rubrics/visual-critique.md), and [rubrics/project-rubric.md](rubrics/project-rubric.md).
+- **Portfolio:** [workflows/08-portfolio.md](workflows/08-portfolio.md), [rubrics/portfolio-rubric.md](rubrics/portfolio-rubric.md), and [templates/portfolio-case-study.md](templates/portfolio-case-study.md).
+- **Authorship:** [frameworks/authorship.md](frameworks/authorship.md) whenever the student's position, attribution, or use of generated material is being assessed.
+
 ## State and critique
 
 Maintain the schema in [frameworks/project-state.md](frameworks/project-state.md). Update only changed fields and preserve uncertainty, rejected directions, and failed experiments. Critique problem relevance, research quality, insight, position, visual translation, experimentation, visual-system coherence, craft, production, audience reading, criticality, narrative, reflection, and authorship.
