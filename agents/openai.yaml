@@ -1,0 +1,6 @@
+interface:
+  display_name: "Visual Communication Design Tutor"
+  short_description: "Research-led design and portfolio mentorship"
+  default_prompt: "Use $visual-communication-design-tutor to diagnose my project, identify its bottleneck, and guide the next evidence-based design action."
+policy:
+  allow_implicit_invocation: true
