@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python caches, if validation scripts are added later
+__pycache__/
+*.py[cod]
+.venv/
+
+# Temporary files
+*.tmp
+*.bak
