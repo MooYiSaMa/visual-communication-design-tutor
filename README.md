@@ -114,6 +114,8 @@ Skill 可以帮助用户比较方向、发现漏洞和建立评价标准，但�
 
 ```text
 visual-communication-design-tutor/
+├── .gitignore
+├── CHANGELOG.md
 ├── SKILL.md
 ├── agents/openai.yaml
 ├── SYSTEM-ARCHITECTURE.md
@@ -135,6 +137,8 @@ visual-communication-design-tutor/
 
 | 文件 | 作用 |
 |---|---|
+| `.gitignore` | 排除系统垃圾文件、编辑器临时文件和本地缓存。 |
+| `CHANGELOG.md` | 记录公开版本和后续的重要更新。 |
 | `SKILL.md` | 核心身份、专业边界、工作模式和调用规则。 |
 | `workflows/` | 从项目诊断到作品集整理的九阶段流程。 |
 | `frameworks/` | 研究、概念、视觉语言、作者性和反套路判断框架。 |
@@ -225,6 +229,10 @@ $visual-communication-design-tutor
 ### 仓库地址
 
 [github.com/MooYiSaMa/visual-communication-design-tutor](https://github.com/MooYiSaMa/visual-communication-design-tutor)
+
+### 许可证状态
+
+当前仓库暂未声明开源许可证。GitHub 上的公开可见不等于自动授权复制、改编或商业使用；如果未来希望明确开放这些权利，再根据作者意愿添加合适的许可证。
 
 ---
 
@@ -337,6 +345,8 @@ Condense the project into a paced case study: context and question, research evi
 
 ```text
 visual-communication-design-tutor/
+├── .gitignore
+├── CHANGELOG.md
 ├── SKILL.md
 ├── agents/openai.yaml
 ├── SYSTEM-ARCHITECTURE.md
@@ -358,6 +368,8 @@ visual-communication-design-tutor/
 
 | File or folder | Purpose |
 |---|---|
+| `.gitignore` | Excludes system files, editor files, and local caches. |
+| `CHANGELOG.md` | Records public versions and meaningful updates. |
 | `SKILL.md` | Core identity, professional boundaries, working modes, and invocation rules. |
 | `workflows/` | The nine-stage workflow from project diagnosis to portfolio development. |
 | `frameworks/` | Decision frameworks for research, concept, visual language, authorship, and cliché auditing. |
@@ -448,3 +460,7 @@ The Skill aims to turn vague encouragement such as “think more” or “this d
 ### Repository
 
 [github.com/MooYiSaMa/visual-communication-design-tutor](https://github.com/MooYiSaMa/visual-communication-design-tutor)
+
+### License Status
+
+This repository does not currently declare an open-source license. Public visibility on GitHub does not automatically grant permission to copy, adapt, or use the project commercially. A clear license can be added later when the author decides which reuse rights to grant.
